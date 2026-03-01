@@ -1,4 +1,4 @@
-# NurseLink (SEP in iLab)
+# NurseLink
 
 ## 1) What we are building
 NurseLink is a tech platform connecting nurses to families who need homecare. We focus on fast matching, operational reliability, and making homecare more accessible in Singapore.
@@ -79,8 +79,7 @@ We have been meeting and learning from founders and leaders in related spaces, i
 ## 8) Funding and enablement
 ### Startup SG Founder pathway
 We are exploring NTUitive as an Accredited Mentor Partner route to support a Startup SG Founder application.
-NTUitive states it is an appointed Accredited Mentor Partner for the Start-up SG Founder grant. :contentReference[oaicite:1]{index=1}
+NTUitive states it is an appointed Accredited Mentor Partner for the Start-up SG Founder grant.
 
 ## 9) Progress updates (every 2 months)
-- [Progress Update #1 (Feb 2026)](progress/2026-02-progress-01.md)
-- (Add next updates here)
+- [Progress Update #1 (Mar 2026)](progress/2026-03-progress-01.md)
