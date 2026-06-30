@@ -1,37 +1,44 @@
 # NurseLink
 
 ## 1) What we are building
-NurseLink is a tech platform connecting nurses to families who need homecare. We focus on fast matching, operational reliability, and making homecare more accessible in Singapore.
+NurseLink is a care technology platform helping families access home nursing while building care operations software for providers managing distributed care teams.
 
 ## 2) SEP objectives (2026)
-- Scale B2C adoption (patients and nurses) with strong service fulfilment
-- Build a B2B scheduling and operations platform that can support institutional workflows
-- Improve reliability and trust through better onboarding, processes, and measurable outcomes
+- Scale B2C adoption and fulfilment
+- Build configurable B2B care operations software for home care, assisted living, community care and hospital-at-home workflows
+- Improve reliability, trust, onboarding, quality assurance and measurable outcomes
 
-## 3) Current traction (as of 2026-02-28)
+## 3) Current traction (as of 2026-06-30)
 ### Users and supply-demand
-- Total users: **98**
-- Patients onboarded: **30+**
-- Nurses onboarded: **50+**
+- Nurses onboarded: **80+**
+- Patients / care leads: **around 50–60**
 
-### Bookings and revenue
+### Bookings and fulfilment
+- B2C bookings: **increasing**, with around **five new bookings** noted in late June
+- Current fulfilment capacity: **around half of incoming requests**
+- Notable validation: selected by a patient after Crawfurd Hospital gave a list of home care providers
+
+### Last confirmed financial snapshot (as of 2026-02-28)
 - Successful bookings completed: **4**
 - Revenue: **~$500**
 - Profit: **~$150**
 - Nurse hours delivered: **15.5 hours**
 
 ## 4) Product status
-### B2C (Live)
+### B2C
 - iOS app: **published**
 - Android app: **published**
-- Brochure website: **live**
+- Website: **live**
+- AI care assessment: **added**
+- WhatsApp intake: **added**
+- PostHog analytics: **added**
+- WhatsApp-to-app booking flow: **in progress**
 
 ### B2B (In progress)
-- NUHS-first platform: **currently being built** according to NUHS specifications
-- Engagement status:
-  - **2 meetings completed**
-  - **1 demo completed**
-  - **1 demo scheduled (about 1 month later)**
+- Configurable care operations platform: **in progress**
+- Configurations: hospital-at-home, home care, community care, assisted living
+- Focus areas: intake, scheduling, routing, matching, visit tracking, documentation, dashboards and reporting
+- Early interest from PCS, QLCC, Joo Chiat Social Club and Nurse360
 
 ## 5) Marketing and growth (Feb 2026)
 ### Google Ads (Performance summary)
@@ -68,18 +75,21 @@ NurseLink is a tech platform connecting nurses to families who need homecare. We
 | Artemus | HR | Nurse onboarding ops, HR processes and coordination |
 
 ## 7) Partnerships, ecosystem and learning
-We have been meeting and learning from founders and leaders in related spaces, including:
-- Founder of Homegrown Crops
-- Prof Lerwen Liu
-- Ex co-founder of Jaga-Me
-- Dr Adrian Ang (PAP)
-- CEO of Caregiver Asia
-- RC Chairman Randy (Queenstown)
+We have been meeting and learning from founders, providers and ecosystem partners, including:
+- NUHS@Home
+- PCS / Presbyterian Community Social Services
+- Joo Chiat Social Club / Camino House
+- QLCC / Randy
+- Nurse360
+- e2i
+- Care Better
+- Community events and grassroots contacts
 
 ## 8) Funding and enablement
-### Startup SG Founder pathway
-We are exploring NTUitive as an Accredited Mentor Partner route to support a Startup SG Founder application.
-NTUitive states it is an appointed Accredited Mentor Partner for the Start-up SG Founder grant.
+- Startup SG Founder / SSGF route reviewed, but the team is cautious due to possible restrictions and commitment requirements
+- Furnace, Block71, NUS Medicine-related incubator options and e2i / CTC-related routes explored
+- Grants may also support future B2B customer adoption depending on eligibility
 
 ## 9) Progress updates (every 2 months)
 - [Progress Update #1 (Mar 2026)](progress/2026-03-progress-01.md)
+- [Progress Update #2 (Jun 2026)](progress/2026-06-progress-02.md)
