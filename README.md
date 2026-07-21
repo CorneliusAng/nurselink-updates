@@ -8,10 +8,11 @@ NurseLink is a care technology platform helping families access home nursing whi
 - Build configurable B2B care operations software for home care, assisted living, community care and hospital-at-home workflows
 - Improve reliability, trust, onboarding, quality assurance and measurable outcomes
 
-## 3) Current traction (as of 2026-06-30)
+## 3) Current traction (as of July 2026)
 ### Users and supply-demand
 - Nurses onboarded: **80+**
-- Patients / care leads: **around 50–60**
+- Patients / care leads: **60+**
+- Supported more than **100 hours** of home nursing bookings
 
 ### Bookings and fulfilment
 - B2C bookings: **increasing**, with around **five new bookings** noted in late June
@@ -63,16 +64,18 @@ NurseLink is a care technology platform helping families access home nursing whi
 <img width="1826" height="1003" alt="image" src="https://github.com/user-attachments/assets/cdeaf1ff-f459-453f-9d3d-307afa8f5a5b" />
 
 ## 6) Team
+### Active core team
 | Name | Role | Key responsibilities |
 |---|---|---|
-| Cornelius | Founder, Engineering | Product development, coding, B2B build, overall execution |
-| Ting Hwei | Patient outreach | Patient acquisition, partnerships touchpoints, community outreach |
-| Sanjay | Partnerships and grants | Onboarding support, grant and partnership research |
-| Valerie | Partnerships and grants | Onboarding support, grant and partnership research |
-| Wayne | Partnerships and grants | Onboarding support, grant and partnership research |
-| Gopa | Partnerships and grants | Onboarding support, grant and partnership research |
-| Xuan Ting | Marketing | Paid ads, creatives, campaign execution, messaging tests |
-| Artemus | HR | Nurse onboarding ops, HR processes and coordination |
+| Cornelius Ang | Founder and Product & Engineering Lead | Product development, engineering, B2B build, overall execution |
+| Gopashish Harikrishnan | Head of Business Development | Business development, onboarding support, partnership outreach |
+| Tan Xuan Ting | Head of Marketing | Paid ads, creatives, campaign execution, messaging tests |
+| Sanjay Krishna Ravichandran | Head of Strategic Partnerships | Strategic partnerships, grants, onboarding support |
+
+### Extended team
+| Name | Role | Key responsibilities |
+|---|---|---|
+| Yee Ting Hwei | Head of Outreach | Full-time at GovTech as an AI Product Engineer; continues supporting NurseLink outreach on a limited basis |
 
 ## 7) Partnerships, ecosystem and learning
 We have been meeting and learning from founders, providers and ecosystem partners, including:
@@ -93,3 +96,4 @@ We have been meeting and learning from founders, providers and ecosystem partner
 ## 9) Progress updates (every 2 months)
 - [Progress Update #1 (Mar 2026)](progress/2026-03-progress-01.md)
 - [Progress Update #2 (Jun 2026)](progress/2026-06-progress-02.md)
+- [Progress Update #3 (Jul 2026)](progress/2026-07-progress-03.md)
