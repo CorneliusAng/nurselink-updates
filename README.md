@@ -1,99 +1,89 @@
 # NurseLink
 
-## 1) What we are building
-NurseLink is a care technology platform helping families access home nursing while building care operations software for providers managing distributed care teams.
+NurseLink is a healthcare technology platform helping families access home nursing while providing care organisations with software to coordinate distributed care teams.
 
-## 2) SEP objectives (2026)
-- Scale B2C adoption and fulfilment
-- Build configurable B2B care operations software for home care, assisted living, community care and hospital-at-home workflows
-- Improve reliability, trust, onboarding, quality assurance and measurable outcomes
+**[Home nursing](https://nurselink.sg)** · **[Meridian for organisations](https://nurselink.sg/platform)** · **[Download on the App Store](https://apps.apple.com/sg/app/nurselink/id6753316366)** · **[Get it on Google Play](https://play.google.com/store/apps/details?id=com.nurselink.nurselink&hl=en_SG)**
 
-## 3) Current traction (as of July 2026)
-### Users and supply-demand
-- Nurses onboarded: **80+**
-- Patients / care leads: **60+**
-- Supported more than **100 hours** of home nursing bookings
+## What NurseLink does
 
-### Bookings and fulfilment
-- B2C bookings: **increasing**, with around **five new bookings** noted in late June
-- Current fulfilment capacity: **around half of incoming requests**
-- Notable validation: selected by a patient after Crawfurd Hospital gave a list of home care providers
+### Home nursing
 
-### Last confirmed financial snapshot (as of 2026-02-28)
-- Successful bookings completed: **4**
-- Revenue: **~$500**
-- Profit: **~$150**
-- Nurse hours delivered: **15.5 hours**
+NurseLink helps patients and families request qualified nurses for home-based care.
 
-## 4) Product status
-### B2C
-- iOS app: **published**
-- Android app: **published**
-- Website: **live**
-- AI care assessment: **added**
-- WhatsApp intake: **added**
-- PostHog analytics: **added**
-- WhatsApp-to-app booking flow: **in progress**
+- Arrange routine support, recurring clinical visits and procedure-based nursing at home
+- Onboard and verify nurses through structured intake and credential checks
+- Match requests to suitable nurses and coordinate scheduling and bookings
+- Support families through intake, booking and care coordination workflows
 
-### B2B (In progress)
-- Configurable care operations platform: **in progress**
-- Configurations: hospital-at-home, home care, community care, assisted living
-- Focus areas: intake, scheduling, routing, matching, visit tracking, documentation, dashboards and reporting
-- Early interest from PCS, QLCC, Joo Chiat Social Club and Nurse360
+### Meridian
 
-## 5) Marketing and growth (Feb 2026)
-### Google Ads (Performance summary)
-- Clicks: **1.79k**
-- Impressions: **60.8k**
-- Avg CPC: **$0.33**
-- Cost: **$588**
-- Date range: **18 Feb 2026 to 28 Feb 2026**
+Meridian is NurseLink’s configurable care operations platform for home care, assisted living, community care and distributed healthcare teams.
 
-<img width="1917" height="527" alt="image" src="https://github.com/user-attachments/assets/c147d8fe-63a3-4678-9d62-f77cb5756a2e" />
+- Manage patient and resident intake, records and workforce profiles
+- Coordinate scheduling, task allocation, matching and live visit status
+- Support vitals, care documentation and operational reporting
+- Extend into medication management based on operator feedback
 
-### Meta Ads (Last 60 days summary)
-- Spend: **$487.31** on **2 ads**
-- Views: **49,991**
-- Viewers: **17,219**
-- Post engagements: **606**
-- Meta leads (from the two recent ads): **108 total**
-  - Ad 1: **86 leads**, Spend **SGD 215.21**
-  - Ad 2: **22 leads**, Spend **SGD 272.10**
-- Date range shown: **Dec 31, 2025 to Feb 28, 2026**
+## Current progress
 
-<img width="1826" height="1003" alt="image" src="https://github.com/user-attachments/assets/cdeaf1ff-f459-453f-9d3d-307afa8f5a5b" />
+- More than 80 nurses onboarded
+- More than 60 patients and families supported or engaged
+- More than 100 hours of home nursing bookings supported
+- B2C service operating across routine support, recurring care and clinical nursing requests
+- Meridian undergoing validation with organisations in assisted living, community care and home care
 
-## 6) Team
+## Product capabilities
+
+**Home nursing platform**
+- Patient intake
+- Nurse onboarding and verification
+- Matching
+- Scheduling
+- Booking and payment coordination
+
+**Meridian**
+- Patient and resident records
+- Workforce scheduling and task allocation
+- Skill and service matching
+- Live visit status
+- Vitals and care documentation
+- Operational reporting
+- Medication management in development
+
+## Team
+
 ### Active core team
-| Name | Role | Key responsibilities |
+
+| Name | Role | Focus |
 |---|---|---|
-| Cornelius Ang | Founder and Product & Engineering Lead | Product development, engineering, B2B build, overall execution |
-| Gopashish Harikrishnan | Head of Business Development | Business development, onboarding support, partnership outreach |
-| Tan Xuan Ting | Head of Marketing | Paid ads, creatives, campaign execution, messaging tests |
-| Sanjay Krishna Ravichandran | Head of Strategic Partnerships | Strategic partnerships, grants, onboarding support |
+| Cornelius Ang | Founder and Product & Engineering Lead | Product, engineering and platform development |
+| Gopashish Harikrishnan | Head of Business Development | Business development and partnership outreach |
+| Tan Xuan Ting | Head of Marketing | Marketing, campaigns and growth |
+| Sanjay Krishna Ravichandran | Head of Strategic Partnerships | Strategic partnerships and grants |
 
 ### Extended team
-| Name | Role | Key responsibilities |
+
+| Name | Role | Focus |
 |---|---|---|
-| Yee Ting Hwei | Head of Outreach | Full-time at GovTech as an AI Product Engineer; continues supporting NurseLink outreach on a limited basis |
+| Yee Ting Hwei | Head of Outreach | Limited-basis outreach support while working full-time at GovTech |
 
-## 7) Partnerships, ecosystem and learning
-We have been meeting and learning from founders, providers and ecosystem partners, including:
-- NUHS@Home
-- PCS / Presbyterian Community Social Services
-- Joo Chiat Social Club / Camino House
-- QLCC / Randy
-- Nurse360
-- e2i
-- Care Better
-- Community events and grassroots contacts
+## Programmes and ecosystem
 
-## 8) Funding and enablement
-- Startup SG Founder / SSGF route reviewed, but the team is cautious due to possible restrictions and commitment requirements
-- Furnace, Block71, NUS Medicine-related incubator options and e2i / CTC-related routes explored
-- Grants may also support future B2B customer adoption depending on eligibility
+- NTU Innovation Lab Student Entrepreneurship Programme
+- Startup SG Founder grant support approved, currently under evaluation by the team
+- Founder accepted into the SUSS Minor/Certificate in Entrepreneurship programme
+- SparkX+Change 2026 under Alexandra Hospital
+- Relevant discussions across home care, assisted living and community care
 
-## 9) Progress updates (every 2 months)
+## SEP progress updates
+
+These updates are maintained for NTU iLab SEP reporting.
+
 - [Progress Update #1 (Mar 2026)](progress/2026-03-progress-01.md)
 - [Progress Update #2 (Jun 2026)](progress/2026-06-progress-02.md)
 - [Progress Update #3 (Jul 2026)](progress/2026-07-progress-03.md)
+
+## Contact
+
+- Home nursing: [https://nurselink.sg](https://nurselink.sg)
+- Meridian for organisations: [https://nurselink.sg/platform](https://nurselink.sg/platform)
