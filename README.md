@@ -57,15 +57,10 @@ Meridian is NurseLink’s configurable care operations platform for home care, a
 | Name | Role | Focus |
 |---|---|---|
 | Cornelius Ang | Founder and Product & Engineering Lead | Product, engineering and platform development |
+| Yee Ting Hwei | Head of Outreach | Outreach and partnerships; working full-time at GovTech |
 | Gopashish Harikrishnan | Head of Business Development | Business development and partnership outreach |
 | Tan Xuan Ting | Head of Marketing | Marketing, campaigns and growth |
 | Sanjay Krishna Ravichandran | Head of Strategic Partnerships | Strategic partnerships and grants |
-
-### Extended team
-
-| Name | Role | Focus |
-|---|---|---|
-| Yee Ting Hwei | Head of Outreach | Limited-basis outreach support while working full-time at GovTech |
 
 ## Programmes and ecosystem
 
