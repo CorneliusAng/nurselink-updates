@@ -77,6 +77,7 @@ These updates are maintained for NTU iLab SEP reporting.
 - [Progress Update #1 (Mar 2026)](progress/2026-03-progress-01.md)
 - [Progress Update #2 (Jun 2026)](progress/2026-06-progress-02.md)
 - [Progress Update #3 (Jul 2026)](progress/2026-07-progress-03.md)
+- [Progress Update #4 (September 2026 draft)](progress/2026-09-progress-04.md)
 
 ## Contact
 
